@@ -22,9 +22,10 @@
     border-style: ridge;
     padding: 15px;
     width: 45%;
-    height: 200px;
+    height: 400px;
     font-family: 'Didact Gothic', sans-serif;
     vertical-align: top;
+    overflow: auto;
 }
 
 #third{
@@ -33,7 +34,7 @@
     padding: 15px;
     display: inline-block;
     width: 45%;
-    height: 190px;
+    height: 300px;
     font-family: 'Didact Gothic', sans-serif;
 }
 #final{
