@@ -1,0 +1,59 @@
+#master{
+    margin: 0 auto;
+}
+#first{
+    color:blue;
+    padding: 30px;
+    border-style: groove;
+    text-align: center;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 4vw;
+}
+#secondhead{
+    text-align: center;
+}
+#content{
+    padding: 20px;
+}
+.second{
+    color:pink;
+    background-color:black;
+    display: inline-block;
+    border-style: ridge;
+    padding: 15px;
+    width: 45%;
+    height: 200px;
+    font-family: 'Didact Gothic', sans-serif;
+    vertical-align: top;
+}
+
+#third{
+    color: aliceblue;
+    background-color: firebrick;
+    padding: 15px;
+    display: inline-block;
+    width: 45%;
+    height: 190px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+#final{
+    color:green;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 3vw;
+    border-style: dotted;
+}
+#abra{
+    color:purple;
+    background-color:gray;
+    padding: 20px;
+    display: inline-block;
+}
+#kadabra{
+    color:purple;
+    background-color:gray;
+    padding: 20px;
+    display: inline-block;
+}
+#thirdhead{
+    text-align: center;
+}
